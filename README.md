@@ -33,5 +33,5 @@ https://github.com/RenanJPaula/RenanJPaula
 **Felipe Aguiar** - *Trabalhando com Web components no front-end* - [felipeAguiarCode]
 https://github.com/felipeAguiarCode/felipeAguiarCode
 
-**Pedro Ricardo de Campos** - *Criando meu currículo vitae com a plataforma GitHub Pages* - [pedrordcampos]
+**Pedro Ricardo de Campos** [pedrordcampos]
 (https://github.com/pedrordcampos)
